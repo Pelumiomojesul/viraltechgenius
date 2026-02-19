@@ -1,17 +1,15 @@
 # Hello, I'm Emmanuel Olawuyi viraltechgenius
 <a href="https://linkedin.com/in/olawuyi-oluwapelumi-olamilekan-057646242"></a>
 
-[Brief Introduction - Remove this afterwards]
+## Brief Introduction
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My background in computer science has naturally evolved into a strong focus on cybersecurity. I am now actively pursuing a transition into the field, with the immediate goal of contributing as a Tier 1 SOC Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,7 +21,7 @@ My background in computer science has naturally evolved into a strong focus on c
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+[Provide tools and break them down into categories]
 
 ### Network
 <div>
