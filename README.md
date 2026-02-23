@@ -13,7 +13,7 @@ My background in computer science has naturally evolved into a strong focus on c
 
 | Skill                                                            | Associated Project         |
 |------------------------------------------------------------------|----------------------------|
-| WebStrike Lab – Network Forensics and Incident Response          | <a href="https://https://cyberdefenders.org/blueteam-ctf-challenges/webstrike/">WebStrike Lab</a>|
+| WebStrike Lab – Network Forensics and Incident Response          | <a href="https://https://cyberdefenders.org/blueteam-ctf-challenges/webstrike">WebStrike Lab</a>|
 | Network Traffic Monitoring and Attack Detection                  | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR                            | SOC Automation Lab|
 | Incident Response Planning and Execution                         | SOC Automation Lab|
