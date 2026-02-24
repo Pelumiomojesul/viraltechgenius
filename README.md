@@ -1,6 +1,6 @@
-# Hello, I'm Emmanuel Olawuyi viraltechgenius
+# Hello, I'm Olawuyi Oluwapelumi - viraltechgenius
 
-<a href="https://linkedin.com/in/olawuyi-oluwapelumi-olamilekan-057646242"></a>
+<a href="https://linkedin.com/in/olawuyi-oluwapelumi-olamilekan-057646242"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Brief Introduction
 
@@ -32,16 +32,22 @@ My background in computer science has naturally evolved into a strong focus on c
 ### SIEM
 
 <br>
+
 ## Certifications
 <div>
-Google Cloude Digital Leader
-AWS Educate Introduction to Cloud 101
-Azure Fundamentals Challenge Certificate
-Certificate in Cybersecurity ISC2
-Diploma in Cybersecurity 
+- Google Cloud Digital Leader
+   <br> <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" /> <br>
+- AWS Educate Introduction to Cloud 101
+     <br> <img src="https://img.shields.io/badge/-AWS%20Educate-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" /> <br>
+- Azure Fundamentals Challenge Certificate
+     <br> <img src="https://img.shields.io/badge/-Microsoft%20Azure%20Fundamentals-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" /> <br>
+- Certificate in Cybersecurity ISC2
+     <br> <img src="https://img.shields.io/badge/-ISC2-0066A1?&style=for-the-badge&logo=isc2&logoColor=white" /> <br>
+- Diploma in Cybersecurity 
+     <br> <img src="https://img.shields.io/badge/-Diploma%20in%20Cybersecurity-2E3440?&style=for-the-badge&logo=cyberdefenders&logoColor=white" /> <br>
 </div>
 
 ## Projects
 - Network Traffic Analysis Lab
 - WebStrike Lab
-- 
+  
