@@ -1,4 +1,5 @@
 # Hello, I'm Emmanuel Olawuyi viraltechgenius
+
 <a href="https://linkedin.com/in/olawuyi-oluwapelumi-olamilekan-057646242"></a>
 
 ## Brief Introduction
@@ -7,42 +8,30 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-My background in computer science has naturally evolved into a strong focus on cybersecurity. I am now actively pursuing a transition into the field, with the immediate goal of contributing as a Tier 1 SOC Analyst.
+My background in computer science has naturally evolved into a strong focus on cybersecurity. I am now actively pursuing a transition into the field, with the immediate goal of contributing as a Tier 1 SOC Analyst. 
 
 ## Skills
 
 | Skill                                                            | Associated Project         |
 |------------------------------------------------------------------|----------------------------|
-| WebStrike Lab – Network Forensics and Incident Response          | <a href="https://https://cyberdefenders.org/blueteam-ctf-challenges/webstrike">WebStrike Lab</a>|
-| Network Traffic Monitoring and Attack Detection                  | <a href="https://google.com">Detection Lab</a>|
+| WebStrike Lab – Network Forensics and Incident Response          | <a href="https://cyberdefenders.org/blueteam-ctf-challenges/webstrike">WebStrike Lab</a>| 
+| My First Network Traffic Labs                                    | <a href="https://github.com/Pelumiomojesul/MY-FIRST-WebStrike-Network-Traffic-Analysis-Wireshark-Investigation-LAB/blob/main/README.md">WIRESHARK INVESTIGATION Lab</a>|
 | Security Automation with Shuffle SOAR                            | SOC Automation Lab|
 | Incident Response Planning and Execution                         | SOC Automation Lab|
 | Case Management with TheHive                                     | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation                   | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories]
 
-### Network
+### Network Traffic - WIRESHARK
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://i.imgur.com/gVe0M72.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </div>
 
 ### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
 ### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
+<br>
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -53,5 +42,6 @@ My background in computer science has naturally evolved into a strong focus on c
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Network Traffic Analysis Lab
+- WebStrike Lab
+- 
