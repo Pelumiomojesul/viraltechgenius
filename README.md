@@ -16,7 +16,7 @@ My background in computer science has naturally evolved into a strong focus on c
 |------------------------------------------------------------------|----------------------------|
 | WebStrike Lab – Network Forensics and Incident Response          | <a href="https://cyberdefenders.org/blueteam-ctf-challenges/webstrike">WebStrike Lab</a>| 
 | My First Network Traffic Labs                                    | <a href="https://github.com/Pelumiomojesul/MY-FIRST-WebStrike-Network-Traffic-Analysis-Wireshark-Investigation-LAB/blob/main/README.md">WIRESHARK INVESTIGATION Lab</a>|
-| Security Automation with Shuffle SOAR                            | SOC Automation Lab|
+| Active Directory                                                 | Active Directory Lab|
 | Incident Response Planning and Execution                         | SOC Automation Lab|
 | Case Management with TheHive                                     | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation                   | SOC Automation Lab|
@@ -34,11 +34,11 @@ My background in computer science has naturally evolved into a strong focus on c
 <br>
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+Google Cloude Digital Leader
+AWS Educate Introduction to Cloud 101
+Azure Fundamentals Challenge Certificate
+Certificate in Cybersecurity ISC2
+Diploma in Cybersecurity 
 </div>
 
 ## Projects
